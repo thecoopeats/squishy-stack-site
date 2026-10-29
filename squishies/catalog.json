@@ -1,5 +1,8 @@
 {
   "format": 1,
   "sets": [],
-  "squishies": []
+  "squishies": [
+    { "id": "spaghetti-horse", "name": "Spaghetti Horse", "species": "Horse", "flavor": "Spaghetti and meatballs",
+      "rarity": "Common", "set": "LunchBox", "art": "spaghetti-horse.png", "version": 1 }
+  ]
 }
