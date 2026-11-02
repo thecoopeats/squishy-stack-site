@@ -3,6 +3,14 @@
   "sets": [],
   "squishies": [
     { "id": "spaghetti-horse", "name": "Spaghetti Horse", "species": "Horse", "flavor": "Spaghetti and meatballs",
-      "rarity": "Common", "set": "LunchBox", "art": "spaghetti-horse.png", "version": 1 }
+      "rarity": "Common", "set": "LunchBox", "art": "spaghetti-horse.png", "version": 1 },
+    { "id": "pickle-bear", "name": "Pickle Bear", "species": "Bear", "flavor": "Pickle",
+      "rarity": "Common", "set": "LunchBox", "art": "pickle-bear.png", "version": 1 },
+    { "id": "bunny-fish", "name": "Bunny Fish", "species": "Bunny fish", "flavor": "Carrot",
+      "rarity": "Common", "set": "LunchBox", "art": "bunny-fish.png", "version": 1 },
+    { "id": "gummy-bear", "name": "Gummy Bear", "species": "Bear", "flavor": "Blue raspberry gummy",
+      "rarity": "Common", "set": "SweetShop", "art": "gummy-bear.png", "version": 1 },
+    { "id": "monster-guava", "name": "Monster Guava", "species": "Monster", "flavor": "Guava",
+      "rarity": "Legendary", "set": "Legendary", "art": "monster-guava.png", "version": 1 }
   ]
 }
