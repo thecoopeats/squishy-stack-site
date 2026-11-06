@@ -15,6 +15,10 @@
     { "id": "pear-penguin", "name": "Pear Penguin", "species": "Penguin", "flavor": "Pear",
       "rarity": "Common", "set": "FruitFriends", "art": "pear-penguin.png", "version": 1 },
     { "id": "spaghetti-octopus", "name": "Spaghetti Octopus", "species": "Octopus", "flavor": "Spaghetti and tomato sauce",
-      "rarity": "Common", "set": "LunchBox", "art": "spaghetti-octopus.png", "version": 1 }
+      "rarity": "Common", "set": "LunchBox", "art": "spaghetti-octopus.png", "version": 1 },
+    { "id": "croissant-cow", "name": "Croissant Cow", "species": "Cow", "flavor": "Butter croissant",
+      "rarity": "Rare", "set": "BakeryBuddies", "art": "croissant-cow.png", "version": 1 },
+    { "id": "ice-cream-sheep", "name": "Ice Cream Sheep", "species": "Sheep", "flavor": "Vanilla ice cream cone",
+      "rarity": "Rare", "set": "SweetShop", "art": "ice-cream-sheep.png", "version": 1 }
   ]
 }
